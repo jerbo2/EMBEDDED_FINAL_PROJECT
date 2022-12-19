@@ -1,0 +1,11 @@
+C:\Users\bjere\source\repos\ts\ts\bin\Debug\ts.exe.config
+C:\Users\bjere\source\repos\ts\ts\bin\Debug\ts.exe
+C:\Users\bjere\source\repos\ts\ts\bin\Debug\ts.pdb
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.csproj.AssemblyReference.cache
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.csproj.SuggestedBindingRedirects.cache
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.Form1.resources
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.Properties.Resources.resources
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.csproj.GenerateResource.cache
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.csproj.CoreCompileInputs.cache
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.exe
+C:\Users\bjere\source\repos\ts\ts\obj\Debug\ts.pdb
